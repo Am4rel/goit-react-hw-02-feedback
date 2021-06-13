@@ -1,0 +1,15 @@
+.list :not(:last-child) {
+  margin-right: 10px;
+}
+
+.listItem {
+  width: 100px;
+
+  background-color: transparent;
+  border: 1px solid tomato;
+  border-radius: 5px;
+}
+
+.listItem:hover {
+  background-color: #fad087;
+}

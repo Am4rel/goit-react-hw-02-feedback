@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+}
+
+.listItem {
+  display: flex;
+  width: 200px;
+
+  justify-content: space-between;
+}
+
+.text {
+  margin: 0;
+  padding: 0;
+}
